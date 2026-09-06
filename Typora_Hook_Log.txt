@@ -1,0 +1,348 @@
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync 重定向 D:\Program Files (x86)\Typora\resources\app\atom.compiled.dist.jsc --> D:\Program Files (x86)\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.openSync D:\Program Files (x86)\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\hjson\lib\hjson.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\assign.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\fs\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\node_modules\universalify\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\graceful-fs.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\polyfills.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\legacy-streams.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\clone.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\copy.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\ncp.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\utimes.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\win32.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs-sync.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\path-exists\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-sync.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-file-sync.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\buffer.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\remove\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\remove\rimraf.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\jsonfile.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\node_modules\jsonfile\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json-sync.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\move\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\move-sync\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\empty\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\file.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\link.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-paths.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-type.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\output\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-fetch\lib\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-fetch\node_modules\encoding\lib\encoding.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\index.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\node_modules\safer-buffer\safer.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\bom-handling.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\streams.js
+------------------
+[2026/9/6 18:24:10] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\honor\AppData\Roaming\Typora/conf/conf.user.json
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\lib\fs-plus.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore-plus\lib\underscore-plus.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node.cjs
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node-f.cjs
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\async\lib\async.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\mkdirp\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\rimraf\rimraf.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\glob.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\old.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\minimatch\minimatch.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\brace-expansion\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\concat-map\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\balanced-match\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\inherits\inherits.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\path-is-absolute\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\sync.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\common.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\inflight\inflight.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\wrappy\wrappy.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\once\once.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync d:\program files (x86)\typora\typora.exe
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync D:\PROGRAM FILES (X86)\TYPORA\TYPORA.EXE
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\honor\AppData\Roaming\Typora/typora.log
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\lib\main.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\node_modules\lodash\lodash.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\node_modules\is-promise\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\adapters\FileSync.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\adapters\Base.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\lowdb\adapters\_stringify.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\honor\AppData\Roaming\Typora\profile.data
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\honor\AppData\Roaming\Typora\history.data
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\native-reg\lib\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\honor\Documents\Codex\2026-09-06\fedora-windows11-one-pair-windows\outputs\BluetoothPairExport\使用说明.md
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile D:\Program Files (x86)\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-progressbar\source\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-progressbar\node_modules\extend\index.js
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile D:\Program Files (x86)\Typora\resources\locales\zh-Hans.lproj\Menu.json
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile C:\Users\honor\AppData\Roaming\Typora\typora-dictionaries/user-dict.json
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\honor\AppData\Roaming\Typora\backups
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\honor\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 D:\Program Files (x86)\Typora\resources\app/package.json --> D:\Program Files (x86)\Typora\resources\app.bak\package.json
+------------------
+[2026/9/6 18:24:11] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 D:\Program Files (x86)\Typora\resources\app/launch.dist.js --> D:\Program Files (x86)\Typora\resources\app.bak\launch.dist.js
+------------------
+[2026/9/6 18:24:12] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 D:\Program Files (x86)\Typora\resources\app/../page-dist/license.html --> D:\Program Files (x86)\Typora\resources\app.bak\../page-dist/license.html
+------------------
+[2026/9/6 18:24:12] [Log] [&#128737;&#65039; fsHook/Promises] 程序试图 fs.promises.readFile 重定向 D:\Program Files (x86)\Typora\resources\app/../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js --> D:\Program Files (x86)\Typora\resources\app.bak\../page-dist/static/js/LicenseIndex.180dd4c7.5b58fa97.js
+------------------
+[2026/9/6 18:24:12] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\honor\AppData\Roaming\Typora\backups
+------------------
+[2026/9/6 18:24:12] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\honor\AppData\Roaming\Typora/backups/sum
+------------------
+[2026/9/6 18:24:14] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFile D:\Program Files (x86)\Typora\resources\locales\zh-Hans.lproj\Panel.json
+------------------
+[2026/9/6 18:24:14] [Log] [&#128064;electron.net Request] GET https://typora.io/releases/windows_32.json
+------------------
+[2026/9/6 18:24:14] [Log] request.url typeof: string value: https://typora.io/releases/windows_32.json
+------------------
+[2026/9/6 18:24:41] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.stat C:\Users\honor\AppData\Roaming\Typora\draftsRecover
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync 重定向 D:\Program Files (x86)\Typora\resources\app\atom.compiled.dist.jsc --> D:\Program Files (x86)\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.openSync D:\Program Files (x86)\Typora\resources\app.bak\atom.compiled.dist.jsc
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\hjson\lib\hjson.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\assign.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\fs\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\node_modules\universalify\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\graceful-fs.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\polyfills.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\legacy-streams.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\graceful-fs\clone.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\copy.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy\ncp.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\utimes.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\win32.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\mkdirs\mkdirs-sync.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\path-exists\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-sync.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\copy-sync\copy-file-sync.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\util\buffer.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\remove\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\remove\rimraf.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\jsonfile.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\node_modules\jsonfile\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json-sync.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\json\output-json.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\move\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\move-sync\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\empty\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\file.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\link.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-paths.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\ensure\symlink-type.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-extra\lib\output\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-fetch\lib\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\electron-fetch\node_modules\encoding\lib\encoding.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\node_modules\safer-buffer\safer.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\bom-handling.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\iconv-lite\lib\streams.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync C:\Users\honor\AppData\Roaming\Typora/conf/conf.user.json
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\lib\fs-plus.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore-plus\lib\underscore-plus.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node.cjs
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\underscore\underscore-node-f.cjs
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\async\lib\async.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\mkdirp\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\rimraf\rimraf.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\glob.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\fs.realpath\old.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\minimatch\minimatch.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\brace-expansion\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\concat-map\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\balanced-match\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\inherits\inherits.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\path-is-absolute\index.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\sync.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\glob\common.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\inflight\inflight.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\wrappy\wrappy.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.readFileSync D:\Program Files (x86)\Typora\resources\node_modules.asar\fs-plus\node_modules\once\once.js
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync d:\program files (x86)\typora\typora.exe
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync D:\PROGRAM FILES (X86)\TYPORA\TYPORA.EXE
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\honor\Documents\Codex\2026-09-06\fedora-windows11-one-pair-windows\outputs\BluetoothPairExport\使用说明.md
+------------------
+[2026/9/6 18:27:19] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.open C:\Users\honor\AppData\Roaming\Typora/typora.log
+------------------
+[2026/9/6 18:27:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\honor\AppData\Roaming\Typora\backups
+------------------
+[2026/9/6 18:27:46] [Log] [&#128737;&#65039; fsHook] 程序试图 fs.statSync C:\Users\honor\AppData\Roaming\Typora/typora.log
+------------------
